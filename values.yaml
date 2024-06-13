@@ -9,7 +9,7 @@ configmap:
 
 image:
   name: hantmei/vdt_web
-  tag: v2.1.0
+  tag: v2.2.0
 
 service:
   nodePort: 30001
